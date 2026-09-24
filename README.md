@@ -62,7 +62,7 @@ titanic-capstone/
 ├── notebooks/
 │   └── Titanic_Capstone.ipynb          # Full analysis: code + explanations
 ├── reports/
-│   └── Titanic_Capstone_Presentation.pptx
+│   └── Titanic_Capstone_Report.doc
 ├── requirements.txt
 └── README.md
 ```
